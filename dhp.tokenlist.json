@@ -1,0 +1,15 @@
+{
+  "name": "DhP Token List",
+  "timestamp": "2025-09-30T08:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8dC8bDA599fcB5320D21A16F2Aa9570d73707F40",
+      "name": "DhP",
+      "symbol": "DhP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DINECProject/token-lists/main/logo.png"
+    }
+  ]
+}
